@@ -1,0 +1,10 @@
+{
+    "token": "BOT TOKEN",
+    "prefix": "SET OWN PREFIX",
+    "botlogs": "WHERE YOU WANT THE BOT TO POST LOGS",
+    "banlength": "1",
+    "botowner": "YOUR OWN ID",
+    "botchatter": "Where the bot talks to the staff",
+    "reportlogs": "REPORTING PEOPLE IN CHANNEL ID"
+
+}

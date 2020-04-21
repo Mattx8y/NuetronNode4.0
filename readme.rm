@@ -1,0 +1,13 @@
+A basic bot that does things for a user that is coding it.
+
+DiscordID Owner = SkippTekk#6969
+
+
+
+Dependencies installed
+
+npm i fs --save
+npm i nodemon --save
+npm i discordjs --save
+npm i common-tags --save
+npm i node-fetch --save

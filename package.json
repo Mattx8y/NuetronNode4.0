@@ -1,0 +1,20 @@
+{
+  "name": "neutronnode",
+  "version": "1.0.0",
+  "description": "Bot for NeutronNode",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "SkippTekk#6969",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.3",
+    "superagent": "^5.2.2",
+    "util": "^0.12.2"
+  }
+}
